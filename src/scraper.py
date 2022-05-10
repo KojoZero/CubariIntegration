@@ -56,7 +56,7 @@ def getMangaData(mangaLink):
 if __name__ == "__main__":   
     mangaData = getMangaData("https://coloredmanga.com/manga/kingdom/")
 
-    with open("kingdom_metadata.json", "w") as file:
+    with open("./json/kingdom_metadata.json", "w") as file:
         json.dump(mangaData, file, indent=4)
 
 #https://cubari.moe/gist/raw.githubusercontent.com/<rest of the url...>
