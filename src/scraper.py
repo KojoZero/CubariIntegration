@@ -24,7 +24,6 @@ def getMangaData(mangaLink, ref=None):
         author = ""
 
     data['title'] = title
-    data['volume'] = "1"
     data['author'] = author
     data['artist'] = author
     data['description'] = summary
@@ -66,6 +65,7 @@ def getMangaData(mangaLink, ref=None):
                 images.insert(index, imgLink)
 
             chapterData["title"] = chapterName
+            chapterData["volume"] = "1"
             chapterData["groups"] = {}
             chapterData["groups"]["Colored Council"] = images
         
