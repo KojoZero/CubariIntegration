@@ -3,17 +3,18 @@ import re
 import json
 import time
 import requests
+import html
 
 def getMangaData(mangaLink, ref=None):
     res = requests.get(mangaLink)
-    html = res.text
+    htmlvar = res.text
     data = {}
     
     def getDataFromExpression(expression):
-        match = re.search(expression, html)
+        match = re.search(expression, htmlvar)
         return match.group(1).strip()
 
-    title = getDataFromExpression(r'<div class="post-title">[\s\S]+<h1>\s+([^<]+)')
+    title = html.unescape(getDataFromExpression(r'<div class="post-title">[\s\S]+<h1>\s+([^<]+)'))
     summary = getDataFromExpression(r'<div class="summary__content ">[\s\S]+?<p>([\s\S]+?)<\/p>')
     cover = getDataFromExpression(r'<div class="summary_image">[\s\S]+?src="([^"]+)')
     
@@ -31,12 +32,12 @@ def getMangaData(mangaLink, ref=None):
     data['chapters'] = {}
     
     chapterExpr = r'<li class="wp-manga-chapter\s*">[^<]+<a\shref="([^"]+)'
-    chapters = re.findall(chapterExpr, html)
+    chapters = re.findall(chapterExpr, htmlvar)
 
     for chapterLink in chapters:
         chapterData = {}
         
-        chapterIndexExpr = r'(\d+)[^\/]*\/$'
+        chapterIndexExpr = r'(\d+(?:\.\d+)*)[^\/]*\/$'
         match = re.search(chapterIndexExpr, chapterLink)
         chapterIndex = match.group(1)
         
@@ -45,10 +46,10 @@ def getMangaData(mangaLink, ref=None):
 
         if not chapterData:
             res = requests.get(chapterLink)
-            html = res.text
+            htmlvar = res.text
             
             chapterHeaderExpr = r'id="chapter-heading">([^<]+)</h'
-            match = re.search(chapterHeaderExpr, html)
+            match = re.search(chapterHeaderExpr, htmlvar)
             chapterHeader = match.group(1)
 
             chapterNameExpr = r'[\s\S]+-(.+)'
@@ -56,7 +57,7 @@ def getMangaData(mangaLink, ref=None):
             chapterName = match.group(1).strip()
 
             imageDataExpr = r'<img id="image-(\d+)" src="[^h]+([^"]+)'
-            imageMatches = re.findall(imageDataExpr, html)
+            imageMatches = re.findall(imageDataExpr, htmlvar)
             images = []
 
             for imgMatch in imageMatches:
@@ -75,9 +76,9 @@ def getMangaData(mangaLink, ref=None):
 
 if __name__ == "__main__":   
     res = requests.get("https://coloredmanga.com/")
-    html = res.text
+    htmlvar = res.text
     seriesExpr = r'<h3[^>]+>[^<]*<a\s+href="(https:\/\/coloredmanga.com\/manga\/[^"\/]+)["\/]'
-    seriesMatches = set(re.findall(seriesExpr, html))
+    seriesMatches = set(re.findall(seriesExpr, htmlvar))
 
     for series in seriesMatches:
         print("LOADING MANGA DATA FOR", series)
@@ -99,7 +100,7 @@ if __name__ == "__main__":
 
             with open(outputPath, "w") as file:
                 json.dump(mangaData, file, indent=4)
-                
+
             print("EXPORTED TO", outputPath)
         except Exception as e:
             print("FAILED TO LOAD MANGA FOR", series)
