@@ -7,6 +7,7 @@
     "chapters": {
         "01": {
             "title": "Volume 01",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_624818499bcfb/b3c77e6dcd88f1ed0e99f3b41af22ec9/Vagabond---c001-(v01)---p000-%5BFan-Scans%5D-%5B1r0nShellcouncil%5D.jpg",
@@ -233,7 +234,7 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_624818499bcfb/b3c77e6dcd88f1ed0e99f3b41af22ec9/Vagabond---c010-(v01)---p234-%5BFan-Scans%5D-%5B1r0nShellcouncil%5D.jpg"
                 ]
             },
-            "last_updated": "1652287044"
+            "last_updated": "1652293093"
         }
     }
 }

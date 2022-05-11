@@ -64,7 +64,7 @@ def getMangaData(mangaLink, ref=None):
                 imgLink = imgMatch[1]
                 images.insert(index, imgLink)
 
-            chapterData["title"] = chapterName
+            chapterData["title"] = html.unescape(chapterName)
             chapterData["volume"] = "1"
             chapterData["groups"] = {}
             chapterData["groups"]["Colored Council"] = images

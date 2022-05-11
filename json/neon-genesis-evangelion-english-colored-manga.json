@@ -7,6 +7,7 @@
     "chapters": {
         "4": {
             "title": "Stage 4",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_627593d007280/1dfa5f59b090530287879ee69241672c/01.png",
@@ -35,10 +36,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_627593d007280/1dfa5f59b090530287879ee69241672c/24.png"
                 ]
             },
-            "last_updated": "1652287047"
+            "last_updated": "1652289657"
         },
         "3": {
             "title": "Stage 3",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_627593d007280/3db582be36ad481bca9421310f5e6de9/01.png",
@@ -67,10 +69,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_627593d007280/3db582be36ad481bca9421310f5e6de9/24.png"
                 ]
             },
-            "last_updated": "1652287047"
+            "last_updated": "1652289658"
         },
         "2": {
             "title": "Stage 2",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_627593d007280/34d55704e6010f9d3de9e8ff29850d1d/01.png",
@@ -99,10 +102,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_627593d007280/34d55704e6010f9d3de9e8ff29850d1d/24.png"
                 ]
             },
-            "last_updated": "1652287047"
+            "last_updated": "1652289658"
         },
         "1": {
             "title": "Stage 1",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_627593d007280/3a981401f085c02192633dc41747e050/01.png",
@@ -136,7 +140,7 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_627593d007280/3a981401f085c02192633dc41747e050/31.png"
                 ]
             },
-            "last_updated": "1652287047"
+            "last_updated": "1652289659"
         }
     }
 }

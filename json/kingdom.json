@@ -7,6 +7,7 @@
     "chapters": {
         "06": {
             "title": "Volume 06",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/bb5a4065ed3606606a66cd36612191b8/0000.jpg",
@@ -214,10 +215,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/bb5a4065ed3606606a66cd36612191b8/0202.jpg"
                 ]
             },
-            "last_updated": "1652287050"
+            "last_updated": "1652291322"
         },
         "05": {
             "title": "Volume 05",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/85c2bd5b9955a13960e6a388d6a3d81d/0000.jpg",
@@ -436,10 +438,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/85c2bd5b9955a13960e6a388d6a3d81d/144.jpg"
                 ]
             },
-            "last_updated": "1652287050"
+            "last_updated": "1652291323"
         },
         "04": {
             "title": "Volume 04",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/20caaefb9e7d5051f21295264fc1561c/0000.jpg",
@@ -647,10 +650,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/20caaefb9e7d5051f21295264fc1561c/0203.jpg"
                 ]
             },
-            "last_updated": "1652287050"
+            "last_updated": "1652291326"
         },
         "03": {
             "title": "Volume 03",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/06ef1e121028d6da93ee4baad4b1ad4a/0000.jpg",
@@ -865,10 +869,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/06ef1e121028d6da93ee4baad4b1ad4a/0209.jpg"
                 ]
             },
-            "last_updated": "1652287050"
+            "last_updated": "1652291327"
         },
         "02": {
             "title": "Volume 02",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/47d93ab8f84168a7f3b7a1c4a00b1dd0/0000.jpg",
@@ -1084,10 +1089,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/47d93ab8f84168a7f3b7a1c4a00b1dd0/0210.jpg"
                 ]
             },
-            "last_updated": "1652287050"
+            "last_updated": "1652291328"
         },
         "01": {
             "title": "Volume 01",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/149638aa782eabb59c589accf21b239f/0000.jpg",
@@ -1310,7 +1316,7 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6275a53d39f46/149638aa782eabb59c589accf21b239f/0217.jpg"
                 ]
             },
-            "last_updated": "1652287050"
+            "last_updated": "1652291330"
         }
     }
 }

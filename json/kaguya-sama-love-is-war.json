@@ -6,7 +6,8 @@
     "cover": "https://coloredmanga.com/wp-content/uploads/2022/05/1-193x278.webp",
     "chapters": {
         "30": {
-            "title": "Miyuki Shirogane Can&#039;t Lose",
+            "title": "Miyuki Shirogane Can't Lose",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/a0eeae0910d6f8736df90cb229ae09e3/189.jpg",
@@ -32,10 +33,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/a0eeae0910d6f8736df90cb229ae09e3/209.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287502"
         },
         "29": {
             "title": "Ai Hayasaka Wants to Defend",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/ddcc73751b1b530b588ba14be8d137cf/169.jpg",
@@ -60,10 +62,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/ddcc73751b1b530b588ba14be8d137cf/188.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287505"
         },
         "28": {
             "title": "Kaguya Wants to be Joined",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/01e36037ea79d0e2962dc7ff949c56ab/149.jpg",
@@ -88,10 +91,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/01e36037ea79d0e2962dc7ff949c56ab/168.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287506"
         },
         "27": {
             "title": "Kaguya Wants to Endure",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/db9d22334fa7ef84d9d1dc42301c531e/128.jpg",
@@ -117,10 +121,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/db9d22334fa7ef84d9d1dc42301c531e/148.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287509"
         },
         "26": {
             "title": "Miyuki Shirogane Wants to Work",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/79a3174d763c8ca5a7cdcc667adae6cf/109.jpg",
@@ -144,10 +149,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/79a3174d763c8ca5a7cdcc667adae6cf/127.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287511"
         },
         "25": {
             "title": "Kaguya Wants to be Noticed",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/1fb38fdf53ba4953a26557b069f0b777/089.jpg",
@@ -172,10 +178,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/1fb38fdf53ba4953a26557b069f0b777/108.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287514"
         },
         "24": {
             "title": "Yu Ishigami Wants to Survive",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/1be9b235b5e01070404207fb21d3c50f/069.jpg",
@@ -200,10 +207,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/1be9b235b5e01070404207fb21d3c50f/088.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287519"
         },
         "23": {
             "title": "Miyuki Shirogane Wants to Show Off",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/581aa420563b8588f120cee4794f7595/049.jpg",
@@ -228,10 +236,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/581aa420563b8588f120cee4794f7595/068.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287525"
         },
         "22": {
             "title": "Chika Fujiwara Wants to be Eaten",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/50660530899f6eae647e1338ac645faa/029.jpg",
@@ -256,10 +265,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/50660530899f6eae647e1338ac645faa/048.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287526"
         },
         "21": {
             "title": "Kaguya Wants to Have Held",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/6fcc7355255fa84142657a0dd474b5f9/001.jpg",
@@ -292,10 +302,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/6fcc7355255fa84142657a0dd474b5f9/028.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287531"
         },
         "20": {
             "title": "Miyuki Shirogane Wants to Speak",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/1b619eaf0a9e0b98a651d2e5b0333825/197.jpg",
@@ -325,10 +336,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/1b619eaf0a9e0b98a651d2e5b0333825/221.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287535"
         },
         "19": {
             "title": "Kaguya Wants to be Sent",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/5e0ac78714be8dcb41fc9832e890da56/177.jpg",
@@ -353,10 +365,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/5e0ac78714be8dcb41fc9832e890da56/196.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287537"
         },
         "18": {
             "title": "The Student Council Wants to Talk",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/f747356e94d3df2909b9c06edf8d84e6/157.jpg",
@@ -381,10 +394,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/f747356e94d3df2909b9c06edf8d84e6/176.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287539"
         },
         "17": {
             "title": "Kaguya Wants to Adore",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/c995e55d82ba4f98667b3f3c4bb63e43/137.jpg",
@@ -409,10 +423,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/c995e55d82ba4f98667b3f3c4bb63e43/156.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287541"
         },
         "16": {
             "title": "Kaguya Wants to Do Well",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/115553e877036e40d2eeb2690bbbe0fe/117.jpg",
@@ -437,10 +452,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/115553e877036e40d2eeb2690bbbe0fe/136.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287543"
         },
         "15": {
             "title": "Miyuki Shirogane Wants to Flee",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/0e616e3a3c8681f0f240241afbdd6c16/097.jpg",
@@ -465,10 +481,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/0e616e3a3c8681f0f240241afbdd6c16/116.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287544"
         },
         "14": {
-            "title": "Miyuki Shirogane Hasn&#039;t Done It",
+            "title": "Miyuki Shirogane Hasn't Done It",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/ad3e7e1bd456b840ed7b93fcb16339a9/074.jpg",
@@ -496,10 +513,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/ad3e7e1bd456b840ed7b93fcb16339a9/096.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287545"
         },
         "13": {
             "title": "Kaguya Wants to be Indirect",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/3fd46aa05a64521aa1bf4869adf0bc15/053.jpg",
@@ -524,10 +542,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/3fd46aa05a64521aa1bf4869adf0bc15/073.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287546"
         },
         "12": {
             "title": "Kaguya Wants to be Stopped",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/75ca9e632d0a7b7a2e1e6959bfdb89a1/035.jpg",
@@ -550,10 +569,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/75ca9e632d0a7b7a2e1e6959bfdb89a1/052.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287547"
         },
         "11": {
             "title": "Kaguya Wants to Exchange",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/8388e3e89dfe3b329ea8a2d687ddbfb0/001.jpg",
@@ -591,10 +611,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/8388e3e89dfe3b329ea8a2d687ddbfb0/034.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287548"
         },
         "10": {
             "title": "Chapter 10",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/cef37f222a2ca53b0fdb48f3d24fcc36/192_1.jpg",
@@ -621,10 +642,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/cef37f222a2ca53b0fdb48f3d24fcc36/213.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287550"
         },
         "09": {
             "title": "Chapter 09",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/c3ab7107e635ea3f8a425104a071a07c/171_1.jpg",
@@ -649,10 +671,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/c3ab7107e635ea3f8a425104a071a07c/191_1.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287551"
         },
         "08": {
             "title": "Chapter 08",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/1a6bd1bddb7b026d639b90979ce6181d/151_1.jpg",
@@ -677,10 +700,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/1a6bd1bddb7b026d639b90979ce6181d/170_1.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287552"
         },
         "07": {
             "title": "Chapter 07",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/81cb181d71c1867be0919b715ff0e3a3/131.jpg",
@@ -705,10 +729,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/81cb181d71c1867be0919b715ff0e3a3/150.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287553"
         },
         "06": {
             "title": "Chapter 06",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/bc6815c7aba18e871e08941b1e49b5cb/111.jpg",
@@ -733,10 +758,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/bc6815c7aba18e871e08941b1e49b5cb/130.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287554"
         },
         "05": {
             "title": "Chapter 05",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/7677a9eff9897c90cbbf9b0e2af9e1e1/091.jpg",
@@ -761,10 +787,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/7677a9eff9897c90cbbf9b0e2af9e1e1/110.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287555"
         },
         "04": {
             "title": "Chapter 04",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/fcbbff17604304159d773b5d875e9b28/070.jpg",
@@ -790,10 +817,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/fcbbff17604304159d773b5d875e9b28/090.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287556"
         },
         "03": {
             "title": "Chapter 03",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/3bbeda49ddf96baec2b468a71837d7eb/051.jpg",
@@ -817,10 +845,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/3bbeda49ddf96baec2b468a71837d7eb/069.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287557"
         },
         "02": {
             "title": "Chapter 02",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/ee268f78604296579884f58598aefdd1/029.jpg",
@@ -846,10 +875,11 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/ee268f78604296579884f58598aefdd1/050.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287558"
         },
         "01": {
             "title": "Chapter 01",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/b9375b8e26560a82baa74c2923f8b067/001.jpg",
@@ -881,7 +911,7 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_6272b032eed44/b9375b8e26560a82baa74c2923f8b067/028.jpg"
                 ]
             },
-            "last_updated": "1652287045"
+            "last_updated": "1652287559"
         }
     }
 }

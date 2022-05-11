@@ -7,6 +7,7 @@
     "chapters": {
         "1": {
             "title": "Chapter 1",
+            "volume": "1",
             "groups": {
                 "Colored Council": [
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_624a675566f21/997a1580e24619c75aa25eca6c138f19/01-001.png",
@@ -66,7 +67,7 @@
                     "https://coloredmanga.com/wp-content/uploads/WP-manga/data/manga_624a675566f21/997a1580e24619c75aa25eca6c138f19/01-060.png"
                 ]
             },
-            "last_updated": "1652287049"
+            "last_updated": "1652288600"
         }
     }
 }
