@@ -24,7 +24,7 @@ def getMangaData(mangaLink, ref=None):
         author = ""
 
     data['title'] = title
-    data['volume'] = 1
+    data['volume'] = "1"
     data['author'] = author
     data['artist'] = author
     data['description'] = summary
