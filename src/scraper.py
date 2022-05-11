@@ -37,6 +37,14 @@ def getMangaData(mangaLink):
         match = re.search(chapterIndexExpr, chapterLink)
         chapterIndex = match.group(1)
         
+        chapterHeaderExpr = r'id="chapter-heading">([^<]+)</h'
+        match = re.search(chapterHeaderExpr, html)
+        chapterHeader = match.group(1)
+
+        chapterNameExpr = r'[\s\S]+-(.+)'
+        match = re.search(chapterNameExpr, chapterHeader)
+        chapterName = match.group(1).strip()
+
         imageDataExpr = r'<img id="image-(\d+)" src="[^h]+([^"]+)'
         imageMatches = re.findall(imageDataExpr, html)
         images = []
@@ -46,6 +54,7 @@ def getMangaData(mangaLink):
             imgLink = imgMatch[1]
             images.insert(index, imgLink)
 
+        chapterData["title"] = chapterName
         chapterData["groups"] = {}
         chapterData["groups"]["Colored Council"] = images
         chapterData['last_updated'] = str(int(time.time())) # TODO: scrape time
@@ -59,4 +68,4 @@ if __name__ == "__main__":
     with open("./json/kingdom_metadata.json", "w") as file:
         json.dump(mangaData, file, indent=4)
 
-#https://cubari.moe/gist/raw.githubusercontent.com/<rest of the url...>
+#https://cubari.moe/gist/https://raw.githubusercontent.com/KojoZero/CubariIntegration/master/json/kingdom_metadata.json
