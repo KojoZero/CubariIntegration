@@ -68,4 +68,6 @@ if __name__ == "__main__":
     with open("./json/kingdom_metadata.json", "w") as file:
         json.dump(mangaData, file, indent=4)
 
-#https://cubari.moe/gist/https://raw.githubusercontent.com/KojoZero/CubariIntegration/master/json/kingdom_metadata.json
+# https://cubari.moe/gist/https://raw.githubusercontent.com/KojoZero/CubariIntegration/master/json/kingdom_metadata.json
+# regex for series info
+# r'href="(https:\/\/coloredmanga.com\/manga\/[^"\/]+)["\/]'
